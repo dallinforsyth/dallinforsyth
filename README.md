@@ -1,6 +1,15 @@
-### Hi there 👋
+## DALLIN FORSYTH
 
-### Quick stats about me
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: dallinforsyth192@gmail.com
+### Languages: 
+- Ruby, JavaScript, HTML, CSS, SQL 
+### Frameworks: 
+Ruby on Rails, React.js, Bootstrap 
+### Databases/Libraries/Tools: 
+- Postgres, APIs, Node/npm, Git, GitHub
+
+# Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=dallinforsyth&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dallinforsyth&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
